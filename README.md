@@ -54,11 +54,12 @@ This project has been a deep dive into:
 * The significance of accessibility in app development.
 * The pros and cons of using CloudKit.
 
-**Screenshots:**
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-16 at 16 25 50](https://github.com/user-attachments/assets/afbfe240-54d3-41cb-809f-da4a2af9132a)
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-16 at 16 25 46](https://github.com/user-attachments/assets/160eca5b-a782-48c5-868a-808fd659908e)
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-16 at 16 25 42](https://github.com/user-attachments/assets/12c7cab9-0a7c-448f-b46e-26a02592a1eb)
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-16 at 16 24 15](https://github.com/user-attachments/assets/5f66af03-a03b-4ebc-aee0-04f153caa8da)
+## Screenshots
+
+<img src="https://github.com/user-attachments/assets/afbfe240-54d3-41cb-809f-da4a2af9132a" width="300"/>
+<img src="https://github.com/user-attachments/assets/160eca5b-a782-48c5-868a-808fd659908e" width="300"/>
+<img src="https://github.com/user-attachments/assets/12c7cab9-0a7c-448f-b46e-26a02592a1eb" width="300"/>
+<img src="https://github.com/user-attachments/assets/5f66af03-a03b-4ebc-aee0-04f153caa8da" width="300"/>
 
 
 **Future Considerations:**
